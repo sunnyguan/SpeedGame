@@ -1,0 +1,33 @@
+This game is made to be played like the card game Speed. 
+If you are confused by how the game itself works, even after reading the user manual, 
+please look it up online.
+
+1. Press PLAY to start playing the game.
+2. After you press PLAY, a window will show up prompting 
+   you for your name and your IP Address. Once you have entered your name, 
+   click the OK button next to it. Once you have entered the IP Address, 
+   click the OK button next to it. After you have clicked both OK buttons, 
+   click the “Let’s Play!” button to begin the game.
+3. A window should pop up that looks like the image below. 
+   The bottom five cards that are face up are your the cards in your “hand.” 
+   The card turned over that is to the right of your hand is your deck. 
+   Above your cards are four cards: the most left and right cards (turned over) 
+   are the side deck, and the two center cards (face up) are the central piles. 
+   Above these four cards are your opponent's cards and their deck. 
+   If you ever need to see the instructions again, click on “Instructions” in the menu bar.
+4. The goal of the game is to get rid of all your cards before the other player. 
+   You can get rid of your card by dragging it to a central pile, 
+   but the card’s number or face must be one below or above the 
+   central pile’s top card’s number or face. 
+   (Ex: central piles have 2 and jack on top, which means you can put down 
+   an ace or 3 on the 2 OR put down a 10 or a queen on the jack). 
+   If that condition is not met, the card is put back in its original spot in your hand. 
+   When you successfully put a card on the central pile, a card is taken from your deck 
+   and automatically put in the place of the old card.
+5. If you cannot put any of your cards on the central pile, then enable the STUCK button. 
+   If the other player puts down more cards and you are able to put down a card, 
+   please disable the STUCK button. Once both players have enabled the STUCK button, 
+   the top card from each side deck is put on top of the central pile.
+6. Once a player has no more cards in their hand and their deck, 
+   the game ends and the winner has a “YOU WIN” window pop up. 
+   The loser sadly has a “YOU LOSE” window pop up. Good luck playing the game!
