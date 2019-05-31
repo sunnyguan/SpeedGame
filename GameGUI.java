@@ -38,7 +38,7 @@ import javax.swing.Timer;
  *  @author  Assignment: SpeedGame
  *
  *  @author  Sources: none
- */
+ */ 
 public class GameGUI extends JFrame
 {
 
@@ -383,6 +383,11 @@ public class GameGUI extends JFrame
                                 theirCards.get( i ).setDeact( true );
                                 pane.remove( theirCards.get( i ) );
                             }
+                        }
+                        if(!player.isStuck()) {
+                        	lblStuck.setText("STUCK?");
+                        } else if(player.isStuck()) {
+                        	lblStuck.setText("Waiting...");
                         }
                         Card c = player.getHand().get( i );
                         myCards.get( i ).setCard( c );
